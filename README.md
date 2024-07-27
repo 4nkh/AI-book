@@ -1,7 +1,3 @@
-recherche:
-
-    les 3 pilliers fondamentaux de l'IA
-
 # L'IA en pratique avec python
 ### Introduction 
 Ce dépot présente les exemples de programmes décrit dans le livre
