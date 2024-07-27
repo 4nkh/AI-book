@@ -1,3 +1,6 @@
+if in VS:
+  sudo python main.py
+
 # Le plus court chemin (Shortest Path)
 
 Vous trouverez ci-dessous les instructions et détails pour utiliser le programme de recherche

@@ -15,6 +15,10 @@ def main():
         required=False,
         choices=HEURISTICS,
         default="Mean",
+        #default="Manhattan",
+        #default="Euclidian",
+        #default="Chebyshev",
+        #default="Dijkstra",
     )
     parser.add_argument(
         "--instance",

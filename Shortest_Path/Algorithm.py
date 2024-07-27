@@ -221,6 +221,7 @@ class Algorithm:
         node_b = self.vertices[b]
         dx = abs(node_a[0] - node_b[0])
         dy = abs(node_a[1] - node_b[1])
+        
         if self.heuristic_type == Heuristic.MANHATTAN:
             return (dx + dy) / 2
         if self.heuristic_type == Heuristic.EUCLIDIAN:
